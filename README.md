@@ -7,10 +7,10 @@
 
 ---
 
-## 🌐 Live Demo-https://pass-guard-pro-seven.vercel.app/
+## 🌐 Live Demo
 
 <p align="center">
-  🚀 <a href="https://pass-guard-pro.vercel.app" target="_blank"><b>View Live Project</b></a>
+  🚀 <a href="https://pass-guard-pro-seven.vercel.app/" target="_blank"><b>View Live Project</b></a>
 </p>
 
 ---
