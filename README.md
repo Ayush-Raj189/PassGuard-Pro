@@ -7,6 +7,14 @@
 
 ---
 
+## 🌐 Live Demo-https://pass-guard-pro-seven.vercel.app/
+
+<p align="center">
+  🚀 <a href="https://pass-guard-pro.vercel.app" target="_blank"><b>View Live Project</b></a>
+</p>
+
+---
+
 ## 🚀 Overview
 
 **Vaultify** is a modern password management web application designed to help users securely store and manage their credentials with a clean and intuitive interface.
@@ -65,7 +73,7 @@ password-manager/
 ### 1️⃣ Clone the repository
 
 ```bash
-git clone https://github.com/your-username/vaultify.git
+git clone https://github.com/Ayush-Raj189/vaultify.git
 cd vaultify
 ```
 
@@ -91,7 +99,7 @@ http://localhost:5173
 
 ## 📸 Screenshots
 
-> *(<img width="2099" height="1343" alt="image" src="https://github.com/user-attachments/assets/295fec5f-b0e8-4260-8745-6096b5a73ed5" />
+> *(<img width="2512" height="1437" alt="image" src="https://github.com/user-attachments/assets/423ce333-76d1-4c7d-a6e1-5f4ee6581b0a" />
 )*
 
 ---
